@@ -1,69 +1,69 @@
 [[GAP_pkg_cvec]]
 arch = "aarch64"
-git-tree-sha1 = "d2fa8fda5d83ce66e12bf7695b4778428a1cd7d6"
+git-tree-sha1 = "3d2d32f4ac833f7f11f19e5de6a1f13f6a7ff876"
 os = "macos"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "1fd29776610824b9ebc5b1635965d0d06a5453dafaca7daf4aaf82eb8137d7df"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.aarch64-apple-darwin.tar.gz"
+    sha256 = "278ffd4304165c8465b5b085a9e717cc4cc8feb3435052033e2e10a5fad741b4"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "aarch64"
-git-tree-sha1 = "bae8ccd83dddb14844bc74212cc87b03d8353013"
+git-tree-sha1 = "cbd93f2781fc8e2f225ea504df06545d7c5e5887"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "8f2c8524c605181490700739b35981f0812286a9ddd510f9fa4fda3127a5ab40"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.aarch64-linux-gnu.tar.gz"
+    sha256 = "0037c2bc5965422af01d1a1566024d9a29b43dc9b1f0e2a5aea0b94b6b9c95b3"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "aarch64"
-git-tree-sha1 = "84c19ba6ecffcfae2025d41a8c0c2c78445e072a"
+git-tree-sha1 = "26729d26dc29220369bd33e040c5bdbea95de793"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "fd917d5d5b98d1a17e45fa9dc44dda2710beb0e251b83b0aeae49de12f1bf96c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.aarch64-linux-musl.tar.gz"
+    sha256 = "4c2329da6de3d39cb5628a33264357b0673ebd459ff77e7c5c12f5f329611bc7"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "powerpc64le"
-git-tree-sha1 = "3f09e4e6b76beabd1c89981df3aa16421869ff64"
+git-tree-sha1 = "43de91beec4d31b95933fa0c4f22af4be3d83f3d"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "53289c34912d763bc0d7d07d17587780243b5dda1e36ff6c2009490016ad4a9b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "dfc16b9a5465d8208ade39c7aca31f33c08e14c467b5370f8d1f88265b061f5c"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "x86_64"
-git-tree-sha1 = "c9a064e1886a993825e44531dfafa6944ff657b3"
+git-tree-sha1 = "66e3a5389bd84d7f477f01e8d4ac6ed4af9774f7"
 os = "macos"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "ac233a78c431dd8dd0aedaa488824d0e14fb2f65c453c79b8908ecd42b96b31b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.x86_64-apple-darwin.tar.gz"
+    sha256 = "d6460d7eb4948b58ac3389b81d44611a8b3eb554f1607eadd268419e463bbf46"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "x86_64"
-git-tree-sha1 = "7d06167d637f174cc897c2f89ef7d653adde77bc"
+git-tree-sha1 = "68539434b2622991564c52b2aa8dc27a631d0e23"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "66aad6d9c93fa608d39a9b693d8c270992ee31a92dc3185c1e84fbe4b23b5df3"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.x86_64-linux-gnu.tar.gz"
+    sha256 = "a3bfdaec8b1a82a68cf2fa250015561b4425e9b98cd801133e473e30412402aa"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "x86_64"
-git-tree-sha1 = "848ebe7d78d58ec1e72c56cdf68fecc0091da543"
+git-tree-sha1 = "71cc0edc5c22afb1853a92cb7259a3e433dd2998"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "cbb0cbd64150dbfd62c55222f84a63da4d59e60588ca32f7cf2a426f25cfa6bd"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.x86_64-linux-musl.tar.gz"
+    sha256 = "0efb11edf7e2f9ca128aa0e25cac4bfe318d0cd9c9780203f4662fc5eb48c0ee"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_cvec]]
 arch = "x86_64"
-git-tree-sha1 = "00b433d541549e74f941d623d7925d5446a0418a"
+git-tree-sha1 = "38c21135a007349717d89a23ab362c0c26be882b"
 os = "freebsd"
 
     [[GAP_pkg_cvec.download]]
-    sha256 = "3dce3c59a2245b3746116c9fdd993291ca5b6b4d7dfd1a1386787db5fdd6416b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.700.602+0/GAP_pkg_cvec.v200.700.602.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "45eade7a496a5b4bdc7de38b7f65efb62957c7dd01ff125ebdae69bc3939209f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cvec_jll.jl/releases/download/GAP_pkg_cvec-v200.800.100+0/GAP_pkg_cvec.v200.800.100.x86_64-unknown-freebsd.tar.gz"
